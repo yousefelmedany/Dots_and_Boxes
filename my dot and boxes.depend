@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1641823546 source:c:\users\khaled\desktop\my dot and boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	<string.h>
+	"colors.h"
+
+1628698952 c:\users\khaled\desktop\my dot and boxes\colors.h
+	<windows.h>
+	<io.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+
+1641733885 source:c:\users\khaled\desktop\my dot and boxes\untitled1.c
+	<stdio.h>
+
